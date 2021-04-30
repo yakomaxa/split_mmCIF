@@ -8,3 +8,9 @@
 ```Rscript split_bylist_cif.R listofciffile.txt ourputdir  ```
 
 -> Pass list of cif files, then the script splits mmCIFs into chain PDB files in the outdir 
+
+## License
+
+GPL version 3 license. 
+
+The license is after bio3d package
