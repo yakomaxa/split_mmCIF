@@ -13,4 +13,4 @@
 
 GPL version 3 license. 
 
-The license is after bio3d package because splitcif coems from pdbsplit in bio3d. 
+The license is after bio3d package because splitcif comes from pdbsplit in bio3d. 
