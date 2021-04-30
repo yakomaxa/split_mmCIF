@@ -1,4 +1,8 @@
 # split_mmCIF
+## Note
+
+Currently only applicable to protein. DNA RNA and HETATOM go worng.
+
 ## Usage
 
 ```Rscript get_cif_and_split_into_chainPDB.R targetdir 1mbn 1a3n ```
